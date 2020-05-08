@@ -1,4 +1,4 @@
-{8
+{
     "metadata": {
         "total": 20,
         "page": 2,
@@ -17,53 +17,53 @@
             "state": "New one",
             "price": 1000
         },
-        {
-            "id": 2,
-            "code": 3524,
-            "quantity": 4,
-            "name": "Product 2",
-            "color": "Yellow",
-            "size": "Large",
-            "brand": "Pulma",
-            "model": "IDK",
-            "state": "Old one",
-            "price": 675
-        },
-        {
-            "id": 3,
-            "code": 435,
-            "quantity": 10,
-            "name": "Product 3",
-            "color": "Blue",
-            "size": "Large",
-            "brand": "Nike",
-            "model": "IDK",
-            "state": "New one",
-            "price": 452
-        },
-        {
-            "id": 4,
-            "code": 534,
-            "quantity": 9,
-            "name": "Product 4",
-            "color": "Black",
-            "size": "Medium",
-            "brand": "Philco",
-            "model": "IDK",
-            "state": "New one",
-            "price": 399
-        },
-        {
-            "id": 5,
-            "code": 789,
-            "quantity": 100,
-            "name": "Product 5",
-            "color": "red",
-            "size": "small",
-            "brand": "Adiddas",
-            "model": "IDK",
-            "state": "Old one",
-            "price": 1000
-        }
+    {
+    "id": 2,
+    "code": 3524,
+    "quantity": 4,
+    "name": "Product 2",
+    "color": "Yellow",
+    "size": "Large",
+    "brand": "Pulma",
+    "model": "IDK",
+    "state": "Old one",
+    "price": 675
+    },
+    {
+    "id": 3,
+    "code": 435,
+    "quantity": 10,
+    "name": "Product 3",
+    "color": "Blue",
+    "size": "Large",
+    "brand": "Nike",
+    "model": "IDK",
+    "state": "New one",
+    "price": 452
+    },
+    {
+    "id": 4,
+    "code": 534,
+    "quantity": 9,
+    "name": "Product 4",
+    "color": "Black",
+    "size": "Medium",
+    "brand": "Philco",
+    "model": "IDK",
+    "state": "New one",
+    "price": 399
+    },
+    {
+    "id": 5,
+    "code": 789,
+    "quantity": 100,
+    "name": "Product 5",
+    "color": "red",
+    "size": "small",
+    "brand": "Adiddas",
+    "model": "IDK",
+    "state": "Old one",
+    "price": 1000
+    }
     ]
 }

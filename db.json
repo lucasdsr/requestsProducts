@@ -7,9 +7,9 @@
     "data": [
         {
             "id": 1,
-            "product.code": 123,
+            "code": 123,
             "quantity": 10,
-            "name": "Product 1",,
+            "name": "Product 1",
             "color": "Blue",
             "size": "Large",
             "brand": "Nike",
@@ -19,7 +19,7 @@
         },
         {
             "id": 2,
-            "product.code": 3524,
+            "code": 3524,
             "quantity": 4,
             "name": "Product 2",
             "color": "Yellow",
@@ -31,7 +31,7 @@
         },
         {
             "id": 3,
-            "product.code": 435,
+            "code": 435,
             "quantity": 10,
             "name": "Product 3",
             "color": "Blue",
@@ -43,7 +43,7 @@
         },
         {
             "id": 4,
-            "product.code": 534,
+            "code": 534,
             "quantity": 9,
             "name": "Product 4",
             "color": "Black",
@@ -55,7 +55,7 @@
         },
         {
             "id": 5,
-            "product.code": 789,
+            "code": 789,
             "quantity": 100,
             "name": "Product 5",
             "color": "red",

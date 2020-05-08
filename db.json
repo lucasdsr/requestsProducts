@@ -15,7 +15,7 @@
             "brand": "Nike",
             "model": "IDK",
             "state": "New one",
-            "price": 1000,
+            "price": 1000
         },
         {
             "id": 2,
@@ -27,7 +27,7 @@
             "brand": "Pulma",
             "model": "IDK",
             "state": "Old one",
-            "price": 675,
+            "price": 675
         },
         {
             "id": 3,
@@ -39,7 +39,7 @@
             "brand": "Nike",
             "model": "IDK",
             "state": "New one",
-            "price": 452,
+            "price": 452
         },
         {
             "id": 4,
@@ -51,7 +51,7 @@
             "brand": "Philco",
             "model": "IDK",
             "state": "New one",
-            "price": 399,
+            "price": 399
         },
         {
             "id": 5,
@@ -63,7 +63,7 @@
             "brand": "Adiddas",
             "model": "IDK",
             "state": "Old one",
-            "price": 1000,
+            "price": 1000
         }
     ]
 }

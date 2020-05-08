@@ -4,12 +4,12 @@
         "page": 2,
         "limit": 10
     },
-    "data": [{
+    "data": [
         {
             "id": 1,
             "product.code": 123,
             "quantity": 10,
-            "name": "Product 1",
+            "name": "Product 1",,
             "color": "Blue",
             "size": "Large",
             "brand": "Nike",

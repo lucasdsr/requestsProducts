@@ -25,7 +25,7 @@
             "brand": "Pulma",
             "model": "IDK",
             "state": "Old one",
-            "price": 675,50,
+            "price": 675,
         },
         {
             "product.code": 435,
@@ -59,6 +59,6 @@
             "model": "IDK",
             "state": "Old one",
             "price": 1000,
-        },
+        }
     ]
 }
